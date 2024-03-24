@@ -11,7 +11,7 @@ Welcome to the Multidimensional Time Series Analysis for Country Similarities re
   * PCA
   * t-SNE 
   * Autoencoder
-## Clustering:
+* Clustering:
   * K-means
   * K-Means++
   * DBSCAN 
